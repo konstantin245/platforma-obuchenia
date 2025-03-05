@@ -1,0 +1,42 @@
+1
+Маша засушила 3 кленовых листа, а дубовых – на 2 листа больше. Сколько дубовых листьев засушила Маша?
+backgroundLevel1.png
+5
+dub.jpg
+sun.jpg
+tuchka.jpg
+2
+Данис взял для белочки 18 орехов, Кирилл – 8. На сколько меньше орехов у Кирилла, чем у Даниса ?
+backgroundLevel2.png
+10
+belka_dumaet.jpg
+sun.jpg
+tuchka.jpg
+3
+В квартире 14 стульев, а столов в 7 раз меньше, сколько столов в квартире?
+backgroundLevel3.jpg
+2
+table_chair.jpg
+sun.jpg
+tuchka.jpg
+4
+Бабушке 60 лет. Вероника на 50 лет ее моложе. Во сколько раз бабушка старше Вероники?
+backgroundLevel4.png
+6
+grandma.jpg
+sun.jpg
+tuchka.jpg
+5
+Найди сторону треугольника, если две другие стороны длиной по 5 см, а периметр треугольника равен 15 см.
+backgroundLevel5.jpg
+5
+triangle.jpg
+sun.jpg
+tuchka.jpg
+6
+У Ани 30 рублей, у Зои 40 рублей. Сколько шоколадок по 7  рублей они могут купить?
+backgroundLevel6.jpg
+10
+chocolate.jpg
+sun.jpg
+tuchka.jpg

@@ -1,0 +1,138 @@
+C:\Users\user\source\repos\!sbornik\bin\Debug\net6.0-windows\!sbornik.exe
+C:\Users\user\source\repos\!sbornik\bin\Debug\net6.0-windows\!sbornik.deps.json
+C:\Users\user\source\repos\!sbornik\bin\Debug\net6.0-windows\!sbornik.runtimeconfig.json
+C:\Users\user\source\repos\!sbornik\bin\Debug\net6.0-windows\!sbornik.dll
+C:\Users\user\source\repos\!sbornik\bin\Debug\net6.0-windows\!sbornik.pdb
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.Form1.resources
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.password.resources
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.win_student.resources
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.win_teacher.resources
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.GenerateResource.cache
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.AssemblyInfo.cs
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.dll
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\refint\!sbornik.dll
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.pdb
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.genruntimeconfig.cache
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\ref\!sbornik.dll
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.task_student.resources
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.registration.resources
+F:\!sbornik\bin\Debug\net6.0-windows\!sbornik.exe
+F:\!sbornik\bin\Debug\net6.0-windows\!sbornik.deps.json
+F:\!sbornik\bin\Debug\net6.0-windows\!sbornik.runtimeconfig.json
+F:\!sbornik\bin\Debug\net6.0-windows\!sbornik.dll
+F:\!sbornik\bin\Debug\net6.0-windows\!sbornik.pdb
+F:\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.AssemblyReference.cache
+F:\!sbornik\obj\Debug\net6.0-windows\_sbornik.Form1.resources
+F:\!sbornik\obj\Debug\net6.0-windows\_sbornik.password.resources
+F:\!sbornik\obj\Debug\net6.0-windows\_sbornik.registration.resources
+F:\!sbornik\obj\Debug\net6.0-windows\_sbornik.task_student.resources
+F:\!sbornik\obj\Debug\net6.0-windows\_sbornik.win_student.resources
+F:\!sbornik\obj\Debug\net6.0-windows\_sbornik.win_teacher.resources
+F:\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.GenerateResource.cache
+F:\!sbornik\obj\Debug\net6.0-windows\!sbornik.GeneratedMSBuildEditorConfig.editorconfig
+F:\!sbornik\obj\Debug\net6.0-windows\!sbornik.AssemblyInfoInputs.cache
+F:\!sbornik\obj\Debug\net6.0-windows\!sbornik.AssemblyInfo.cs
+F:\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.CoreCompileInputs.cache
+F:\!sbornik\obj\Debug\net6.0-windows\!sbornik.dll
+F:\!sbornik\obj\Debug\net6.0-windows\refint\!sbornik.dll
+F:\!sbornik\obj\Debug\net6.0-windows\!sbornik.pdb
+F:\!sbornik\obj\Debug\net6.0-windows\!sbornik.genruntimeconfig.cache
+F:\!sbornik\obj\Debug\net6.0-windows\ref\!sbornik.dll
+F:\!sbornik\obj\Debug\net6.0-windows\_sbornik.Properties.Resources.resources
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.Properties.Resources.resources
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.task_ot_teacher.resources
+E:\!sbornik\bin\Debug\net6.0-windows\!sbornik.exe
+E:\!sbornik\bin\Debug\net6.0-windows\!sbornik.deps.json
+E:\!sbornik\bin\Debug\net6.0-windows\!sbornik.runtimeconfig.json
+E:\!sbornik\bin\Debug\net6.0-windows\!sbornik.dll
+E:\!sbornik\bin\Debug\net6.0-windows\!sbornik.pdb
+E:\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.AssemblyReference.cache
+E:\!sbornik\obj\Debug\net6.0-windows\_sbornik.Form1.resources
+E:\!sbornik\obj\Debug\net6.0-windows\_sbornik.password.resources
+E:\!sbornik\obj\Debug\net6.0-windows\_sbornik.Properties.Resources.resources
+E:\!sbornik\obj\Debug\net6.0-windows\_sbornik.registration.resources
+E:\!sbornik\obj\Debug\net6.0-windows\_sbornik.task_ot_teacher.resources
+E:\!sbornik\obj\Debug\net6.0-windows\_sbornik.task_student.resources
+E:\!sbornik\obj\Debug\net6.0-windows\_sbornik.win_student.resources
+E:\!sbornik\obj\Debug\net6.0-windows\_sbornik.win_teacher.resources
+E:\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.GenerateResource.cache
+E:\!sbornik\obj\Debug\net6.0-windows\!sbornik.GeneratedMSBuildEditorConfig.editorconfig
+E:\!sbornik\obj\Debug\net6.0-windows\!sbornik.AssemblyInfoInputs.cache
+E:\!sbornik\obj\Debug\net6.0-windows\!sbornik.AssemblyInfo.cs
+E:\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.CoreCompileInputs.cache
+E:\!sbornik\obj\Debug\net6.0-windows\!sbornik.dll
+E:\!sbornik\obj\Debug\net6.0-windows\refint\!sbornik.dll
+E:\!sbornik\obj\Debug\net6.0-windows\!sbornik.pdb
+E:\!sbornik\obj\Debug\net6.0-windows\!sbornik.genruntimeconfig.cache
+E:\!sbornik\obj\Debug\net6.0-windows\ref\!sbornik.dll
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.videoLesson.resources
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\user\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.ResolveComReference.cache
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.dll
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\refint\!sbornik.dll
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.pdb
+C:\Users\Константин\source\repos\!sbornik\bin\Debug\net6.0-windows\!sbornik.exe
+C:\Users\Константин\source\repos\!sbornik\bin\Debug\net6.0-windows\!sbornik.deps.json
+C:\Users\Константин\source\repos\!sbornik\bin\Debug\net6.0-windows\!sbornik.runtimeconfig.json
+C:\Users\Константин\source\repos\!sbornik\bin\Debug\net6.0-windows\!sbornik.dll
+C:\Users\Константин\source\repos\!sbornik\bin\Debug\net6.0-windows\!sbornik.pdb
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.ResolveComReference.cache
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.Form1.resources
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.password.resources
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.Properties.Resources.resources
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.registration.resources
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.task_ot_teacher.resources
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.task_student.resources
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.win_student.resources
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.win_teacher.resources
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.GenerateResource.cache
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.AssemblyInfoInputs.cache
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.AssemblyInfo.cs
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.CoreCompileInputs.cache
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.genruntimeconfig.cache
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\ref\!sbornik.dll
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.dnevnik.resources
+C:\Users\Константин\source\repos\!sbornik\bin\Debug\net6.0-windows\LibVLCSharp.dll
+C:\Users\Константин\source\repos\!sbornik\bin\Debug\net6.0-windows\Vlc.DotNet.Core.dll
+C:\Users\Константин\source\repos\!sbornik\bin\Debug\net6.0-windows\Vlc.DotNet.Core.Interops.dll
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.AssemblyReference.cache
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\!sbornik.csproj.Up2Date
+C:\Users\Константин\source\repos\!sbornik\obj\Debug\net6.0-windows\_sbornik.game_for_students.resources
+C:\Users\Константин\source\repos\!sbornik 2.0\bin\Debug\net6.0-windows\!sbornik.exe
+C:\Users\Константин\source\repos\!sbornik 2.0\bin\Debug\net6.0-windows\!sbornik.deps.json
+C:\Users\Константин\source\repos\!sbornik 2.0\bin\Debug\net6.0-windows\!sbornik.runtimeconfig.json
+C:\Users\Константин\source\repos\!sbornik 2.0\bin\Debug\net6.0-windows\!sbornik.dll
+C:\Users\Константин\source\repos\!sbornik 2.0\bin\Debug\net6.0-windows\!sbornik.pdb
+C:\Users\Константин\source\repos\!sbornik 2.0\bin\Debug\net6.0-windows\LibVLCSharp.dll
+C:\Users\Константин\source\repos\!sbornik 2.0\bin\Debug\net6.0-windows\Vlc.DotNet.Core.dll
+C:\Users\Константин\source\repos\!sbornik 2.0\bin\Debug\net6.0-windows\Vlc.DotNet.Core.Interops.dll
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\!sbornik.csproj.AssemblyReference.cache
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\!sbornik.csproj.ResolveComReference.cache
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\_sbornik.dnevnik.resources
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\_sbornik.Form1.resources
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\_sbornik.game_for_students.resources
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\_sbornik.password.resources
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\_sbornik.Properties.Resources.resources
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\_sbornik.registration.resources
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\_sbornik.task_ot_teacher.resources
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\_sbornik.task_student.resources
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\_sbornik.win_student.resources
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\_sbornik.win_teacher.resources
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\!sbornik.csproj.GenerateResource.cache
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\!sbornik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\!sbornik.AssemblyInfoInputs.cache
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\!sbornik.AssemblyInfo.cs
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\!sbornik.csproj.CoreCompileInputs.cache
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\!sbornik.csproj.Up2Date
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\!sbornik.dll
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\refint\!sbornik.dll
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\!sbornik.pdb
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\!sbornik.genruntimeconfig.cache
+C:\Users\Константин\source\repos\!sbornik 2.0\obj\Debug\net6.0-windows\ref\!sbornik.dll

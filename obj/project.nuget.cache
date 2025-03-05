@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4nHD+3+vmJg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Константин\\source\\repos\\!sbornik 2.0\\!sbornik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Константин\\.nuget\\packages\\libvlcsharp\\3.9.1\\libvlcsharp.3.9.1.nupkg.sha512",
+    "C:\\Users\\Константин\\.nuget\\packages\\vlc.dotnet.core\\3.1.0\\vlc.dotnet.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\Константин\\.nuget\\packages\\vlc.dotnet.core.interops\\3.1.0\\vlc.dotnet.core.interops.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
